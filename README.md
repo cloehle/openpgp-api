@@ -76,6 +76,7 @@ public void onDestroy() {
     }
 }
 ```
+If you built OpenKeychain yourself, you might have the debug version installed and need to replace ``org.sufficientlysecure.keychain`` with ``org.sufficientlysecure.keychain.debug``.
 
 Following the sequence diagram, these steps are executed:
 
